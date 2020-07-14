@@ -2,7 +2,7 @@
 
 👋 Welcome to your new Foam Workspace!
 
-This is a test
+This is a test!
 
 ## Getting started
 
